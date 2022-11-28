@@ -59,9 +59,8 @@ a:hover{
   display: flex ;
 
 }
-.vertical-text {
-  text-orientation: mixed;
-  writing-mode: vertical-rl;
+.event {
+  
 }
 
   @media screen and (min-width: 720px){
