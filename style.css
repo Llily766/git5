@@ -44,13 +44,18 @@ a:hover{
   justify-content:center;
   flex-wrap: wrap;
 }
-  
+.hidden{
+  display:none;
+}
+.visible:hover div{
+  display:flex;
+} 
    img{
           width :50%;
 } 
 
   @media screen and (min-width: 720px){
-  nav ul 
+  nav ul {
     display : flex;
   }
 
