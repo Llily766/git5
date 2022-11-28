@@ -51,8 +51,8 @@ a:hover{
 
   @media screen and (min-width: 720px){
   nav ul 
-    display : flex;
-  }
+    display : flex;}
+
 
 nav{
             width: auto;
@@ -84,5 +84,7 @@ nav{
         border-bottom: 0;
  
       }
+
+}
 
 
