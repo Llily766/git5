@@ -53,9 +53,17 @@ a:hover{
    img{
           width :50%;
 } 
+
 .vertical {
+
   display: flex ;
+
 }
+.vertical-text {
+  text-orientation: mixed;
+  writing-mode: vertical-rl;
+}
+
   @media screen and (min-width: 720px){
   nav ul {
     display : flex;
