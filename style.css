@@ -59,7 +59,9 @@ a:hover{
 
   display: flex ;
 }  
-
+.page{
+  color :black
+}
   @media screen and (min-width: 720px){
   nav ul {
     display : flex;
